@@ -1,19 +1,13 @@
-<!-- PROFIL GITHUB README.md -->
+<!-- GitHub Profile README.md -->
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#9a6359">Tokiniaina</span> 🇲🇬
+  Hi 👋, I'm <span style="color:#9a6359">Tokiniaina</span>
 </h1>
-
-<p align="center">
-  <i>Computer Science Student & Fullstack Developer 💻🚀</i><br/>
-  <code>01010100 01001111 01001011 01001001</code><br/>
-  <strong>code, pixels, unexpected.</strong><br/>
-  <em>Find the pattern, find me.</em>
-</p>
 
 ---
 
 ## 🌐 Connect with me
+
 <p align="center">
   <a href="https://linkedin.com/in/RATOKINIAINAHARY" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -38,8 +32,8 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
@@ -48,19 +42,26 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tokiniainaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tokiniainaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokiniainaa&theme=tokyonight&hide_border=false" height="160px" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokiniainaa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokiniainaa&theme=tokyonight&layout=compact&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokiniainaa&theme=tokyonight&layout=compact&hide_border=false" />
 </p>
 
 ---
 
-## 🔥 Fun Fact
-```txt
-function findMe(hint) {
-  const pattern = "curious";
-  return pattern.split('').reverse().join('');
-}
+## 🦖 Just for fun
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karthik558/github-readme-dino/main/dino.gif" width="300" />
+  <br />
+  <em>Hit space to jump 🛸</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=tokiniainaa&icon=0&color=0" alt="profile visit" />
+</p>
