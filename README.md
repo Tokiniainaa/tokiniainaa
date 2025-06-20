@@ -36,7 +36,12 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 </p>
 
 ---
@@ -52,16 +57,10 @@
 
 ---
 
-## 🦖 Just for fun
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karthik558/github-readme-dino/main/dino.gif" width="300" />
-  <br />
-  <em>Hit space to jump 🛸</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A6359&width=435&lines=Fullstack+Developer;Computer+Science+Student;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tokiniainaa&icon=0&color=0" alt="profile visit" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFid3E3NGdjcWZrcDR1aTU5ZWk2d29ycm8zZDJnNmdncWs0cDQ2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" alt="walk" />
 </p>
